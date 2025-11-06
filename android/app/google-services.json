@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979027959272",
+    "project_id": "mykitchenapp-5184a",
+    "storage_bucket": "mykitchenapp-5184a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979027959272:android:1f67cb409e2ef76897d85d",
+        "android_client_info": {
+          "package_name": "com.example.mykitchenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXLlqjbesKld5ApL3tncknMighj8Y5TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
